@@ -29,7 +29,7 @@ ResuMatch is an intelligent resume optimization platform that helps job seekers 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/omi290/ResuMatch.git
+git clone https://github.com/Vaibhavbaloni/ResuMatch.git
 cd ResuMatch
 ```
 
