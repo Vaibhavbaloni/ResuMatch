@@ -1,4 +1,4 @@
-# ResuMatch 🚀
+## ResuMatch 🚀
 **AI-Powered Resume Optimization for Perfect Job Fits**
 
 ## 📋 Overview
