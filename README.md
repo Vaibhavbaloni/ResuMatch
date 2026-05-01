@@ -18,6 +18,7 @@ ResuMatch is an intelligent resume optimization platform that helps job seekers 
 - **Data Processing**: Python NLP libraries
 - **PDF Generation**: WeasyPrint
 - **Job APIs**: Remotive, JSearch
+- 
 
 ## 🚀 Getting Started
 
